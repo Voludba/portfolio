@@ -1,0 +1,21 @@
+C:\Users\levio\Desktop\3labKG\3labKG\bin\Debug\3labKG.exe.config
+C:\Users\levio\Desktop\3labKG\3labKG\bin\Debug\3labKG.exe
+C:\Users\levio\Desktop\3labKG\3labKG\bin\Debug\3labKG.pdb
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\_3labKG.Form1.resources
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\_3labKG.Properties.Resources.resources
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\3labKG.csproj.GenerateResource.cache
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\3labKG.csproj.CoreCompileInputs.cache
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\3labKG.exe
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\3labKG.pdb
+C:\Users\levio\Desktop\3labKG\3labKG\obj\Debug\3labKG.csprojAssemblyReference.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\bin\Debug\3labKG.exe.config
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\bin\Debug\3labKG.exe
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\bin\Debug\3labKG.pdb
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.csproj.AssemblyReference.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\_3labKG.Form1.resources
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\_3labKG.Properties.Resources.resources
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.csproj.GenerateResource.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.exe
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\3labKG\3labKG\obj\Debug\3labKG.pdb

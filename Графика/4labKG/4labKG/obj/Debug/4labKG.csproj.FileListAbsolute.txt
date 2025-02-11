@@ -1,0 +1,32 @@
+C:\Users\levio\Desktop\4labKG\4labKG\bin\Debug\4labKG.exe.config
+C:\Users\levio\Desktop\4labKG\4labKG\bin\Debug\4labKG.exe
+C:\Users\levio\Desktop\4labKG\4labKG\bin\Debug\4labKG.pdb
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\4labKG.csprojAssemblyReference.cache
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\_4labKG.Form1.resources
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\_4labKG.Properties.Resources.resources
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\4labKG.csproj.GenerateResource.cache
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\4labKG.csproj.CoreCompileInputs.cache
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\4labKG.exe
+C:\Users\levio\Desktop\4labKG\4labKG\obj\Debug\4labKG.pdb
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\bin\Debug\4labKG.exe.config
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\bin\Debug\4labKG.exe
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\bin\Debug\4labKG.pdb
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.csproj.AssemblyReference.cache
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.csproj.SuggestedBindingRedirects.cache
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\_4labKG.Form1.resources
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\_4labKG.Properties.Resources.resources
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.csproj.GenerateResource.cache
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.csproj.CoreCompileInputs.cache
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.exe
+E:\labs\КГ лабы\КГ лабы\4labKG\4labKG\obj\Debug\4labKG.pdb
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\bin\Debug\4labKG.exe.config
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\bin\Debug\4labKG.exe
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\bin\Debug\4labKG.pdb
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.csproj.AssemblyReference.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\_4labKG.Form1.resources
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\_4labKG.Properties.Resources.resources
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.csproj.GenerateResource.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.csproj.CoreCompileInputs.cache
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.exe
+C:\Users\Оксана\Desktop\дз\4 семестр\Графика\4labKG\4labKG\obj\Debug\4labKG.pdb
